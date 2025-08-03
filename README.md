@@ -26,35 +26,6 @@
 - ✅ GPU com suporte a DirectML ou CUDA (opcional)
 - ✅ Drivers de GPU atualizados
 
----
-
-## 📁 Estrutura do Projeto
-
-NEXUS-AI/
-├── Models/
-│ ├── cs2/
-│ │ └── yolov11m-seg_cs2.onnx
-│ ├── valorant/
-│ │ └── yolov11l-seg_val.onnx
-│ └── ...
-├── Configs/
-│ ├── cs2_config.json
-│ └── valorant_config.json
-├── Core/
-│ ├── AIManager.cs
-│ ├── MouseControl.cs
-│ └── CaptureManager.cs
-├── UI/
-│ └── MainWindow.xaml
-├── Assets/
-│ └── Logo, ícones e imagens
-├── NexusAI.csproj
-├── NexusAI.sln
-└── README.md
-
-yaml
-Copiar
-Editar
 
 ---
 
